@@ -1,0 +1,112 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Arkent",
+      "age": 18,
+      "skill": "React"
+    },
+    {
+      "id": 2,
+      "name": "Ferdi",
+      "age": 19,
+      "skill": "NodeJS"
+    },
+    {
+      "id": 3,
+      "name": "William",
+      "age": 20,
+      "skill": "UI/UX"
+    },
+    {
+      "id": 4,
+      "name": "John",
+      "age": 18,
+      "skill": "React"
+    },
+    {
+      "id": 5,
+      "name": "Greg",
+      "age": 19,
+      "skill": "NodeJS"
+    },
+    {
+      "id": 6,
+      "name": "Dave",
+      "age": 20,
+      "skill": "UI/UX"
+    },
+    {
+      "id": 7,
+      "name": "Peter",
+      "age": 18,
+      "skill": "React"
+    },
+    {
+      "id": 8,
+      "name": "Claire",
+      "age": 19,
+      "skill": "NodeJS"
+    },
+    {
+      "id": 9,
+      "name": "Hans",
+      "age": 20,
+      "skill": "UI/UX"
+    },
+    {
+      "id": 10,
+      "name": "Paiet",
+      "age": 18,
+      "skill": "React"
+    },
+    {
+      "id": 11,
+      "name": "Abegaile",
+      "age": 19,
+      "skill": "NodeJS"
+    },
+    {
+      "id": 12,
+      "name": "Lameos",
+      "age": 20,
+      "skill": "UI/UX"
+    },
+    {
+      "id": 13,
+      "name": "Stewart",
+      "age": 18,
+      "skill": "React"
+    },
+    {
+      "id": 14,
+      "name": "Lamenia",
+      "age": 19,
+      "skill": "NodeJS"
+    },
+    {
+      "id": 15,
+      "name": "Opoaly",
+      "age": 20,
+      "skill": "UI/UX"
+    },
+    {
+      "id": 16,
+      "name": "Yekeh",
+      "age": 18,
+      "skill": "React"
+    },
+    {
+      "id": 17,
+      "name": "Woairt",
+      "age": 19,
+      "skill": "NodeJS"
+    },
+    {
+      "id": 18,
+      "name": "Civalry",
+      "age": 20,
+      "skill": "UI/UX"
+    }
+  ]
+}
